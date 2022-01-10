@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm zackary
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adamyi?cardType=level&theme=prussian">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackaryliu&layout=compact&langs_count=10&hide=javascript,html,css&theme=prussian">
+</p>
 
 <!--
 **ZackaryLiu/zackaryliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
