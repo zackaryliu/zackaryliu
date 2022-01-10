@@ -2,6 +2,8 @@
 
 <p align="right">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/zackaryliu?cardType=level&theme=prussian">
+</p>
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackaryliu&layout=compact&langs_count=10&hide=javascript,html,css&theme=prussian">
 </p>
 
